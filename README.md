@@ -20,9 +20,9 @@
 ## 使用方法
 
 1. 普通用户
-    - 下载并直接运行 EzSubTrans_v0.3.exe，无需额外依赖或安装
-    - `浏览`选择字幕文件或直接输入路径（支持 `.srt`/`.ass`）
-    - 设置输出路径（默认自动生成）
+    - [下载](https://github.com/allshell/EzSubTrans/releases/download/v0.3/EzSubTrans_v0.3.exe)并直接运行 EzSubTrans_v0.3.exe（无需额外依赖或安装）
+    - 通过`浏览`选择字幕文件或直接输入路径（支持 `.srt`/`.ass`）
+    - 设置输出路径（默认根据`浏览`选中的文件自动生成）
     - 根据具体的 API 提供方信息，输入 API Base、API Key 和模型名称
     - （可选）设置窗口大小、温度、最大重试次数、背景描述词
     - 点击“开始翻译”启动
