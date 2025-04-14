@@ -46,7 +46,7 @@ EzSubTrans是一款用户友好的图形界面工具，旨在利用大型语言�
     * 在 GUI 的 "API 配置" 区域填入你的服务信息：
         * **API Base URL**: 你的 LLM 服务提供商的 API 端点。对于 OpenAI 官方，通常是 `https://api.openai.com/v1`。对于其他服务或本地模型，请查阅其文档。
         * **API Key**: 你的 API 服务凭证。
-        * **Model Name**: 你希望使用的具体模型名称 (例如 `gpt-4o-mini`, `deepseek-chat`)。
+        * **模型名称**: 你希望使用的具体模型名称 (例如 `gpt-4o-mini`, `deepseek-chat`)。
     * **（重要）测试配置**: 点击 "测试配置" 按钮，确保程序可以成功连接到 API 并验证模型名称。
     * **注意**: API Key 会以明文形式存储在程序目录下的 `config.json` 文件中。请妥善保管此文件，不要泄露给他人！
 4. **选择文件**:
