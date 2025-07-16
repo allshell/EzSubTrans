@@ -1,4 +1,3 @@
-
 # translator.py
 import openai
 import re
